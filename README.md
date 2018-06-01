@@ -1,5 +1,6 @@
 # WeChat
 该项目实现使用XMPPFramework框架进行构建的仿微信的一个demo.
+[简书地址](https://www.jianshu.com/p/94b138362173)
 喜欢请点个star
 实现有登陆,注册,切换用户.其中账号和密码是一样的
 ![登陆注册](http://git.oschina.net/uploads/images/2016/0822/142238_02a1d0f3_763071.gif "登陆注册")
