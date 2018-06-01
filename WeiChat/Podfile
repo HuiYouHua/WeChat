@@ -1,0 +1,7 @@
+platform:ios,'9.0'
+
+target 'WeiChat' do
+
+pod 'XMPPFramework', '~> 3.6.6'
+
+end
